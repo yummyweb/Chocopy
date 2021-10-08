@@ -1,6 +1,6 @@
-# Chocopy
+# Chocopi
 
-Chocopy introduces a new way to create declarative macOS applications efficiently. Chocopy utilizes the macOS Cocoa API under the hood.
+Chocopi introduces a new way to create declarative macOS applications efficiently. Chocopy utilizes the macOS Cocoa API under the hood.
 
 All rendered UI elements are known as controllers, and they function using listeners, which is nothing but a function or a callback. Layouts are a combination of controllers and a system of positioning. 
 
@@ -15,6 +15,14 @@ The following controllers work:
 - Slider
 - Progress Bar
 - Checkbox
+
+## Installation
+
+Install Chocopi using pip:
+
+```
+pip install chocopi
+```
 
 ## API Reference
 
